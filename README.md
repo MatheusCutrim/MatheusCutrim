@@ -5,7 +5,7 @@ Estudante de programação em **C#**, **SQL Server** e desenvolvimento backend.
 
 ---
 
-## 💻 Atualmente estudando
+## 📚 Atualmente estudando
 
 - C# e .NET
 - Programação Orientada a Objetos
@@ -29,9 +29,9 @@ Estudante de programação em **C#**, **SQL Server** e desenvolvimento backend.
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MatheusCutrim&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusCutrim&layout=compact&theme=tokyonight)
 
 </div>
 
