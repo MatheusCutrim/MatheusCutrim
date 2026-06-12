@@ -1,7 +1,7 @@
-# Olá! Eu sou o Matheus Cutrim 👋
+# Olá! Eu sou Matheus Cutrim 👋
 
 Desenvolvedor em formação, apaixonado por tecnologia, programação e criação de sistemas.  
-Atualmente estudo **C#**, **Programação Orientada a Objetos**, **SQL Server** e desenvolvimento backend.
+Estudante de programação em **C#**, **SQL Server** e desenvolvimento backend.
 
 ---
 
