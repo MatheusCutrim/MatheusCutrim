@@ -5,7 +5,7 @@ Estudante de programação em **C#**, **SQL Server** e desenvolvimento backend.
 
 ---
 
-## 📚 Atualmente estudando
+## 📚 Habilidades
 
 - C# e .NET
 - Programação Orientada a Objetos
